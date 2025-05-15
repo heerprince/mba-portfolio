@@ -1,0 +1,33 @@
+---
+title: "Projects & Case Studies"
+format: html
+---
+
+# 🧠 MBA Projects & Case Studies
+
+## 📊 Cesim Bank Simulation
+
+Led team strategy in a multi-round banking simulation. Key responsibilities:
+
+- Managed interest rates, capital ratios, and loan portfolios  
+- Analyzed competition and adjusted strategy  
+- Delivered final report summarizing performance, risks, and lessons learned
+
+## 📦 Blockchain in Operations Management
+
+Researched and presented a report on how blockchain enhances transparency in logistics and supply chains. Highlights:
+
+- Reduced fraud and transaction delays  
+- Case studies: Walmart, IBM Food Trust
+
+## 🎯 Netflix Ad Strategy (Marketing Assignment)
+
+Developed a strategic advertising plan for Netflix’s entry into ad-supported streaming. Work included:
+
+- Audience segmentation  
+- Budget planning  
+- Campaign objectives and metrics
+
+---
+
+More academic or professional projects will be added as I progress through the MBA.

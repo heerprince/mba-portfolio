@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  title: "Prince Heer - MBA Portfolio"
+  navbar:
+    left:
+      - text: Home
+        file: index.qmd
+      - text: About
+        file: about.qmd
+      - text: Resume
+        file: resume.qmd
+      - text: Projects
+        file: projects.qmd
+      - text: Skills
+        file: skills.qmd
+      - text: Contact
+        file: contact.qmd
+    right:
+      - icon: github
+        href: https://github.com/heerprince
+      - icon: linkedin
+        href: https://www.linkedin.com/in/prince-heer-86763032b/
+
+format:
+  html:
+    theme: cosmo
+    toc: true
