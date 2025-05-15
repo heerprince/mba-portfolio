@@ -1,0 +1,177 @@
+[
+  {
+    "objectID": "skills.html",
+    "href": "skills.html",
+    "title": "Skills & Certifications",
+    "section": "",
+    "text": "Strategic Analysis & Business Planning\n\nFinancial Modeling and Forecasting\n\nAccounting and Bookkeeping\n\nAudit Support and Reporting\n\n\n\n\n\nLeadership & Team Management\n\nProject Coordination\n\nClient Relationship Management\n\nPerformance Tracking (KPIs, Dashboards)\n\n\n\n\n\nMicrosoft Excel (Advanced)\n\nPower BI (Data Visualization)\n\nQuarto, Markdown, GitHub Pages\n\nGoogle Workspace & Office Suite"
+  },
+  {
+    "objectID": "skills.html#strategic-and-financial-skills",
+    "href": "skills.html#strategic-and-financial-skills",
+    "title": "Skills & Certifications",
+    "section": "",
+    "text": "Strategic Analysis & Business Planning\n\nFinancial Modeling and Forecasting\n\nAccounting and Bookkeeping\n\nAudit Support and Reporting"
+  },
+  {
+    "objectID": "skills.html#management-collaboration",
+    "href": "skills.html#management-collaboration",
+    "title": "Skills & Certifications",
+    "section": "",
+    "text": "Leadership & Team Management\n\nProject Coordination\n\nClient Relationship Management\n\nPerformance Tracking (KPIs, Dashboards)"
+  },
+  {
+    "objectID": "skills.html#technical-tools",
+    "href": "skills.html#technical-tools",
+    "title": "Skills & Certifications",
+    "section": "",
+    "text": "Microsoft Excel (Advanced)\n\nPower BI (Data Visualization)\n\nQuarto, Markdown, GitHub Pages\n\nGoogle Workspace & Office Suite"
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection on LLM Use",
+    "section": "",
+    "text": "s # 🤖 Reflection: Leveraging LLMs in Portfolio Development\nI primarily relied on the engagement of Large Language Models (LLMs), in particular ChatGPT, to guide, structure, and improve my work as I built my MBA portfolio into a full-fledged multi-page Quarto website. I’ve captured my learning process and maintained authenticity in my use of AI."
+  },
+  {
+    "objectID": "reflection.html#what-worked-well",
+    "href": "reflection.html#what-worked-well",
+    "title": "Reflection on LLM Use",
+    "section": "What Worked Well",
+    "text": "What Worked Well\nAs someone new to VS Code and Quarto, using an LLM helped me overcome technical challenges. I used ChatGPT to: - Generate clear, structured .qmd files for each website page. - Design my _quarto.yml configuration for navigation. - Generate a dynamic home page, and organize the content on site pages like About, Resume, and Projects. - Advise me on how to best showcase my skills, completed projects, and work history.\nI was able to understand both the “how” and the “why” of the entirety of the Quarto system by being able to ask specific instructions in real time. This gave meaning to the learning process and it accelerated it."
+  },
+  {
+    "objectID": "reflection.html#ensuring-authenticity",
+    "href": "reflection.html#ensuring-authenticity",
+    "title": "Reflection on LLM Use",
+    "section": "Ensuring Authenticity",
+    "text": "Ensuring Authenticity\nWhile LLMs were instrumental in drafting, I made sure to personalize all AI-generated content. I revised text to reflect my real experience, achievements, and voice. For instance: - I modified the project descriptions to accurately match what I had worked on. - I tailored skills to align with tools and areas I am confident in, such as Excel, Power BI, and financial forecasting. - I included a link to download my resume and my individual contact information.\nBy combining AI-assisted drafts with personal edits and factual checks, I ensured that my website is a true representation of who I am."
+  },
+  {
+    "objectID": "reflection.html#difficulties-and-improvements",
+    "href": "reflection.html#difficulties-and-improvements",
+    "title": "Reflection on LLM Use",
+    "section": "Difficulties and Improvements",
+    "text": "Difficulties and Improvements\nThe most difficult task was configuring the navigation and ensuring the pages were displayed properly. With the help of the LLM, I was able to fix some minor syntax issues and troubleshoot my issues with page previews.\nI also learned how valuable visuals can be. By adding my headshot and linking my resume as two visual elements I created better professionalism."
+  },
+  {
+    "objectID": "reflection.html#final-thoughts",
+    "href": "reflection.html#final-thoughts",
+    "title": "Reflection on LLM Use",
+    "section": "Final Thoughts",
+    "text": "Final Thoughts\nThis assignment allowed me to learn again how to build a website using Quarto, but even more importantly, how to responsibly utilize AI in my academic and professional plans. LLMs allowed me to think quicker, organize better, and write with more confidence to be sure the final voice is mine."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Prince Heer - MBA Portfolio",
+    "section": "",
+    "text": "Hi! I’m Prince Heer, an MBA candidate at University Canada West, graduating in September 2025. With a background in Commerce (B.Com) and a strong interest in finance, strategy, and innovation, I aim to bridge analytical thinking with practical solutions.\nCurrently, I work at Armour Security & Protection Services, where I support strategic planning, financial management, and operational efficiency.\n\n\n\nThis website showcases my professional journey, academic projects, and skillsets as part of my MBA portfolio.\n\n📘 About Me\nLearn more about my academic background, goals, and current work.\n📄 Resume\nA detailed view of my education and professional experience.\n📊 Projects\nMBA assignments, case studies, and simulation projects that reflect my hands-on learning.\n🛠️ Skills & Certifications\nMy strengths in analysis, finance, leadership, and tools like Excel and Power BI.\n📬 Contact\nConnect with me by email or on LinkedIn.\n\n\n\n\n\n\n💼 Strategic Decision Making\nThrough Cesim simulations and real-world projects, I’ve developed keen insight into business strategy and financial planning.\n🧠 Continuous Learner\nRegularly using tools like ChatGPT to brainstorm, write, and refine ideas while staying current with business trends.\n🌐 Tech-Savvy\nConfident using data tools and platforms like Excel, Power BI, Quarto, and GitHub to present insights professionally.\n\n\nThank you for visiting my portfolio. I invite you to explore the different sections and learn more about my professional journey!\n\n\n\nPrince Heer Headshot"
+  },
+  {
+    "objectID": "index.html#what-youll-find-here",
+    "href": "index.html#what-youll-find-here",
+    "title": "Prince Heer - MBA Portfolio",
+    "section": "",
+    "text": "This website showcases my professional journey, academic projects, and skillsets as part of my MBA portfolio.\n\n📘 About Me\nLearn more about my academic background, goals, and current work.\n📄 Resume\nA detailed view of my education and professional experience.\n📊 Projects\nMBA assignments, case studies, and simulation projects that reflect my hands-on learning.\n🛠️ Skills & Certifications\nMy strengths in analysis, finance, leadership, and tools like Excel and Power BI.\n📬 Contact\nConnect with me by email or on LinkedIn."
+  },
+  {
+    "objectID": "index.html#highlights",
+    "href": "index.html#highlights",
+    "title": "Prince Heer - MBA Portfolio",
+    "section": "",
+    "text": "💼 Strategic Decision Making\nThrough Cesim simulations and real-world projects, I’ve developed keen insight into business strategy and financial planning.\n🧠 Continuous Learner\nRegularly using tools like ChatGPT to brainstorm, write, and refine ideas while staying current with business trends.\n🌐 Tech-Savvy\nConfident using data tools and platforms like Excel, Power BI, Quarto, and GitHub to present insights professionally.\n\n\nThank you for visiting my portfolio. I invite you to explore the different sections and learn more about my professional journey!\n\n\n\nPrince Heer Headshot"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m Prince Heer, currently pursuing my MBA at University Canada West, with an expected graduation in September 2025. I hold a Bachelor of Commerce (B.Com) from Shri Guru Gobind Singh Khalsa College, Punjab, India.\nMy passion lies at the intersection of finance, strategy, and innovation. I strive to create data-driven solutions that support business decision-making and growth.\n\n\n\nI’m currently employed at Armour Security & Protection Services (since September 2024), where I lead strategic and operational initiatives including:\n\nOptimizing service delivery and resource planning.\nSupporting financial forecasting, analysis, and reporting.\nContributing to client satisfaction and performance tracking.\n\n\n\n\n\nI aim to advance into roles involving:\n\nFinancial Strategy\n\nBusiness Consulting\n\nCorporate Planning or Operations Leadership\n\nWith continuous learning and practical experience, I’m building a foundation to become a dynamic and insightful business professional."
+  },
+  {
+    "objectID": "about.html#professional-background",
+    "href": "about.html#professional-background",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m currently employed at Armour Security & Protection Services (since September 2024), where I lead strategic and operational initiatives including:\n\nOptimizing service delivery and resource planning.\nSupporting financial forecasting, analysis, and reporting.\nContributing to client satisfaction and performance tracking."
+  },
+  {
+    "objectID": "about.html#career-goals",
+    "href": "about.html#career-goals",
+    "title": "About Me",
+    "section": "",
+    "text": "I aim to advance into roles involving:\n\nFinancial Strategy\n\nBusiness Consulting\n\nCorporate Planning or Operations Leadership\n\nWith continuous learning and practical experience, I’m building a foundation to become a dynamic and insightful business professional."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Thank you for exploring my portfolio! Feel free to reach out for collaborations, questions, or professional opportunities.\n\n📧 Email: prince0066heer@gmail.com\n\n🔗 LinkedIn: linkedin.com/in/prince-heer-86763032b\n\n\n\n\n\n📄 Download Resume\n\n🌐 GitHub Portfolio"
+  },
+  {
+    "objectID": "contact.html#resume-links",
+    "href": "contact.html#resume-links",
+    "title": "Contact",
+    "section": "",
+    "text": "📄 Download Resume\n\n🌐 GitHub Portfolio"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects & Case Studies",
+    "section": "",
+    "text": "Led team strategy in a multi-round banking simulation. Key responsibilities:\n\nManaged interest rates, capital ratios, and loan portfolios\n\nAnalyzed competition and adjusted strategy\n\nDelivered final report summarizing performance, risks, and lessons learned\n\n\n\n\nResearched and presented a report on how blockchain enhances transparency in logistics and supply chains. Highlights:\n\nReduced fraud and transaction delays\n\nCase studies: Walmart, IBM Food Trust\n\n\n\n\nDeveloped a strategic advertising plan for Netflix’s entry into ad-supported streaming. Work included:\n\nAudience segmentation\n\nBudget planning\n\nCampaign objectives and metrics\n\n\nMore academic or professional projects will be added as I progress through the MBA."
+  },
+  {
+    "objectID": "projects.html#cesim-bank-simulation",
+    "href": "projects.html#cesim-bank-simulation",
+    "title": "Projects & Case Studies",
+    "section": "",
+    "text": "Led team strategy in a multi-round banking simulation. Key responsibilities:\n\nManaged interest rates, capital ratios, and loan portfolios\n\nAnalyzed competition and adjusted strategy\n\nDelivered final report summarizing performance, risks, and lessons learned"
+  },
+  {
+    "objectID": "projects.html#blockchain-in-operations-management",
+    "href": "projects.html#blockchain-in-operations-management",
+    "title": "Projects & Case Studies",
+    "section": "",
+    "text": "Researched and presented a report on how blockchain enhances transparency in logistics and supply chains. Highlights:\n\nReduced fraud and transaction delays\n\nCase studies: Walmart, IBM Food Trust"
+  },
+  {
+    "objectID": "projects.html#netflix-ad-strategy-marketing-assignment",
+    "href": "projects.html#netflix-ad-strategy-marketing-assignment",
+    "title": "Projects & Case Studies",
+    "section": "",
+    "text": "Developed a strategic advertising plan for Netflix’s entry into ad-supported streaming. Work included:\n\nAudience segmentation\n\nBudget planning\n\nCampaign objectives and metrics\n\n\nMore academic or professional projects will be added as I progress through the MBA."
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "You can view or download my full resume here.\n\n\n\n\nMBA, University Canada West (Expected Sep 2025)\n\nBachelor of Commerce (B.Com), Shri Guru Gobind Singh Khalsa College, Punjab, India\n\n\n\n\n\nArmour Security & Protection Services\nStrategic Operations & Financial Analyst (Sep 2024 – Present)\n- Lead operational improvements and resource planning\n- Manage financial reporting and analysis\n- Contribute to business strategy and client service\n\n\n\n\n\nFinancial Modeling, Forecasting\n\nExcel, Power BI, Accounting Tools\n\nProject Management\n\nLeadership and Team Collaboration\n\nPerformance Tracking and KPI Analysis"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
+    "section": "",
+    "text": "MBA, University Canada West (Expected Sep 2025)\n\nBachelor of Commerce (B.Com), Shri Guru Gobind Singh Khalsa College, Punjab, India"
+  },
+  {
+    "objectID": "resume.html#professional-experience",
+    "href": "resume.html#professional-experience",
+    "title": "Resume",
+    "section": "",
+    "text": "Armour Security & Protection Services\nStrategic Operations & Financial Analyst (Sep 2024 – Present)\n- Lead operational improvements and resource planning\n- Manage financial reporting and analysis\n- Contribute to business strategy and client service"
+  },
+  {
+    "objectID": "resume.html#skills-tools",
+    "href": "resume.html#skills-tools",
+    "title": "Resume",
+    "section": "",
+    "text": "Financial Modeling, Forecasting\n\nExcel, Power BI, Accounting Tools\n\nProject Management\n\nLeadership and Team Collaboration\n\nPerformance Tracking and KPI Analysis"
+  }
+]
