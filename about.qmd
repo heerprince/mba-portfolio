@@ -1,0 +1,33 @@
+---
+title: "About Me"
+format: html
+---
+
+# 👨‍🎓 About Me
+
+I’m **Prince Heer**, currently pursuing my **MBA at University Canada West**, with an expected graduation in **September 2025**. I hold a **Bachelor of Commerce (B.Com)** from **Shri Guru Gobind Singh Khalsa College**, Punjab, India.
+
+My passion lies at the intersection of **finance**, **strategy**, and **innovation**. I strive to create data-driven solutions that support business decision-making and growth.
+
+---
+
+## 🧑‍💼 Professional Background
+
+I’m currently employed at **Armour Security & Protection Services** (since September 2024), where I lead strategic and operational initiatives including:
+
+- Optimizing service delivery and resource planning.
+- Supporting financial forecasting, analysis, and reporting.
+- Contributing to client satisfaction and performance tracking.
+
+---
+
+## 📈 Career Goals
+
+I aim to advance into roles involving:
+
+- Financial Strategy  
+- Business Consulting  
+- Corporate Planning or Operations Leadership
+
+With continuous learning and practical experience, I’m building a foundation to become a dynamic and insightful business professional.
+

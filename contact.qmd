@@ -1,0 +1,18 @@
+---
+title: "Contact"
+format: html
+---
+
+# 📬 Get in Touch
+
+Thank you for exploring my portfolio! Feel free to reach out for collaborations, questions, or professional opportunities.
+
+- 📧 **Email**: [prince0066heer@gmail.com](mailto:prince0066heer@gmail.com)  
+- 🔗 **LinkedIn**: [linkedin.com/in/prince-heer-86763032b](https://www.linkedin.com/in/prince-heer-86763032b)
+
+---
+
+## 🖇️ Resume & Links
+
+- 📄 [Download Resume](resume.pdf){download=true}  
+- 🌐 [GitHub Portfolio](https://heerprince.github.io/mba-portfolio/)
