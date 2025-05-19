@@ -1,0 +1,42 @@
+---
+title: "Prince Heer - MBA Portfolio"
+format: html
+theme: cosmo
+---
+
+# About Me
+
+![](headshot.jpg.jpg){width=150px}
+
+
+I am an MBA Student at University Canada West, expected to graduate in [September, 2025], with a B.Com background. I am passionate about finance, strategy, and innovation, combining analytical insights with real-world solutions. Currently working at Armour Security & Protection Services, I focus on strategic planning, operations, and financial management and a commitment to continuous learning and growth.
+
+# Education
+
+- **MBA**, University Canada West (Expected [September, 2025])  
+- **B.Com**, [Shri Guru Gobind Singh Khalsa College], [Punjab,India]
+
+# Professional Experience
+
+- **Armour Security & Protection Services** (Sep 2024 – Present)  
+  - Lead operational and strategic initiatives.
+  - Optimize client service delivery and resource allocation.
+  - Support financial forecasting, analysis, and reporting.
+
+# Key Skills & Strengths
+
+- Strategic Analysis & Planning  
+- Financial Modeling & Forecasting 
+- Accounting and Book keeping
+- Audit 
+- Project Management  
+- Leadership & Team Collaboration  
+- Data and Business Analysis (Excel, Power BI)  
+- Effective Communication
+- performance tracking
+
+# Contact
+
+📧 [prince0066heer@gmail.com]  
+🔗 [https://www.linkedin.com/in/prince-heer-86763032b/]
+
